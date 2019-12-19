@@ -1,3 +1,4 @@
-ImageCatalog
+# Image Catalog
 
-    Add, tags and delete images
+This is a Java application, which add, tags, save and
+delete images.
